@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 # formatting output chart for F/S/TPD targets and saving them into memory & html format for automated mailing
 import pandas as pd
 from matplotlib import pyplot as plt
